@@ -1,0 +1,8 @@
+date,store_id,product_id,product_category,price,units_sold,revenue,customer_segment,promotion,stock_level,region
+07-01-2024,101,5001,Beverages,2.99,142,424.58,retail,New Year Promo,850,East
+14-02-2024,101,5002,Snacks,1.49,210,312.9,retail,Valentine Bundle,690,East
+03-03-2024,102,5003,Dairy,3.49,98,342.02,online,Weekend Sale,500,North
+10-03-2024,103,5004,Produce,1.99,320,636.8,retail,No Promo,1200,South
+17-03-2024,104,5005,Bakery,2.49,185,460.65,online,Spring Launch,400,West
+24-03-2024,101,5001,Beverages,2.99,168,502.32,retail,Loyalty Coupon,780,East
+31-03-2024,102,5003,Dairy,3.49,105,366.45,retail,No Promo,470,North
